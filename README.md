@@ -51,7 +51,7 @@ Get code & install. Then `dev` or `build`
 
 * Clone this repo on GitHub
 ```
-git clone https://github.com/BTC415/Business_Dashboard_Next.git
+git clone https://github.com/marksantiago290/Business_Dashboard_Next.git
 ```
 
 #### Install
